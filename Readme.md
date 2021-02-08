@@ -6,3 +6,7 @@ test\main.py
 
 Added 2 more files in src
 app.py and requirements.txt
+
+checking reset --soft command
+
+var c=3;
